@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bridesmaid-meal-planner/static/css/main.f855e6bc.css",
+    "main.js": "/bridesmaid-meal-planner/static/js/main.7daaa5ef.js",
+    "static/js/453.fa4df40b.chunk.js": "/bridesmaid-meal-planner/static/js/453.fa4df40b.chunk.js",
+    "index.html": "/bridesmaid-meal-planner/index.html",
+    "main.f855e6bc.css.map": "/bridesmaid-meal-planner/static/css/main.f855e6bc.css.map",
+    "main.7daaa5ef.js.map": "/bridesmaid-meal-planner/static/js/main.7daaa5ef.js.map",
+    "453.fa4df40b.chunk.js.map": "/bridesmaid-meal-planner/static/js/453.fa4df40b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7daaa5ef.js"
+  ]
+}
